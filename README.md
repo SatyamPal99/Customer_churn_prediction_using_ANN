@@ -1,5 +1,4 @@
 # Customer_churn_prediction_using_ANN
-# Customer Churn Prediction using Machine Learning
 
 ## Dataset
 
